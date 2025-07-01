@@ -17,22 +17,18 @@ Monitor and Mouse significantly outpaced other categories in sales volume
 
 
 ## TOOLS
-- Power BI Desktop: Used for data modeling, report creation, and visualization design.
-
-- Microsoft Excel: Used for comprehensive data analysis.
+- Microsoft Excel: Used for comprehensive data analysis and visualisation.
 
 ## TECHNIQUE AND SKILLS
-- Data Modeling: Establishing relationships between tables, creating calculated columns, and measures using DAX (Data Analysis Expressions).
-ProjectPro
 
-- Data Transformation: Utilizing Power Query for data cleaning, filtering, and shaping to ensure data quality and consistency.
+- Data Transformation: Utilizing Excel for data cleaning, filtering, and shaping to ensure data quality and consistency.
 
 - Data Visualization: Designing interactive charts, graphs, and maps to effectively communicate insights.
 
 - Dashboard Design: Implementing best practices for layout, color schemes, and user navigation to enhance user experience.
 
 ## DATASOURCE
-<a href = https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Global%20Sales%20Dataset.xlsx> Download the Microsoft Excel file </a>
+<a href = https://github.com/Shanu998/SALES-PERFORMANCE-/blob/main/SALES_PERFORMANCE.xlsx> Download the Microsoft Excel file </a>
 
 
 ## DASHBOARD INSIGHTS
