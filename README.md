@@ -36,7 +36,7 @@ ProjectPro
 
 
 ## DASHBOARD INSIGHTS
-![Overview Dashboard](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20MAIN%20OVERVIEW.png)
+![Overview Dashboard](https://github.com/Shanu998/SALES-PERFORMANCE-/blob/main/SHANU%20SALES%20PERFORMANCE.png)
 - Steady Growth: All key metrics improved year-over-year, signaling strong demand recovery.
 - Regional Trends: The South and East regions drove most of the gains, highlighting untapped potential in these areas.
 - Monthly Trends: Peaks in April and October suggest seasonal demand cycles that can be leveraged further.
