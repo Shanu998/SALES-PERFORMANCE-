@@ -10,7 +10,7 @@ I’m excited to share the latest Sales Performance analysis comparing 2023 and 
 - Profit: $412, marking a 34% improvement
 - Regional Performance:
 South Region led with $145.4K sales
-East Region nearly doubled sales, from $62.0K to $121.5K
+while the East Region nearly doubled sales, from $62.0K to $121.5K
 - Top Performing Products:
 Monitor and Mouse significantly outpaced other categories in sales volume
 - Cost: $64K, rising 11% vs PY
@@ -46,5 +46,3 @@ Monitor and Mouse significantly outpaced other categories in sales volume
 - Leverage Seasonality: Plan targeted campaigns in Q2 and Q4 to capitalize on historical sales spikes.
 
 
-## DOWNLOAD
-<a href = "https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Analysis.pbix"> Download the Power BI file </a>
